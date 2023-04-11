@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gavin OP
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML; CSS; JavaScript
+- 👀 I’m interested in quantitative finance
+- 🌱 I’m currently learning python; HTML; CSS; JavaScript
 - 💞️ I’m looking to collaborate on EVERYTHING
 - 📫 How to reach me ...
 - 📌 Perfectly Balanced. 
