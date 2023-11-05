@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gavin OP
 - 👀 I’m interested in quantitative finance
-- 🌱 I’m currently learning python; HTML; CSS; JavaScript
+- 🌱 I’m currently learning python; HTML; CSS; JavaScript, R, SQL
 - 💞️ I’m looking to collaborate on EVERYTHING
-- 📫 How to reach me ...
+- 📫 Email: HaoxiangZhang@link.cuhk.edu.hk  
 - 📌 Perfectly Balanced. 
 
 <!---
