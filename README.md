@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gavin OP
 - 👀 I’m interested in quantitative finance
-- 🌱 I’m currently learning python; HTML; CSS; JavaScript, R, SQL
-- 💞️ I’m looking to collaborate on quantitative research, quantitative trading, or React Website Development
-- 📫 Email: HaoxiangZhang@link.cuhk.edu.hk  
+- 🌱 I’m currently learning Python; SQL; HTML; CSS; JavaScript; R; $\LaTeX$
+- 💞️ I’m looking to collaborate on Quant strategy, Quant research, Quant trading, React Website Development, or ANYTHING that is fun
+- 📫 Email: [HaoxiangZhang@link.cuhk.edu.hk](mailto:HaoxiangZhang@link.cuhk.edu.hk)  
 - 📌 Perfectly Balanced. 
 
 <!---
